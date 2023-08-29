@@ -1,0 +1,8 @@
+C:\Users\Phea\Desktop\Varsity College\YEAR 3\Semester 2\Programming 3B\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Phea\Desktop\Varsity College\YEAR 3\Semester 2\Programming 3B\Arrays\bin\Debug\Arrays.exe
+C:\Users\Phea\Desktop\Varsity College\YEAR 3\Semester 2\Programming 3B\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Phea\Desktop\Varsity College\YEAR 3\Semester 2\Programming 3B\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+C:\Users\Phea\Desktop\Varsity College\YEAR 3\Semester 2\Programming 3B\Arrays\obj\Debug\Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Phea\Desktop\Varsity College\YEAR 3\Semester 2\Programming 3B\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Phea\Desktop\Varsity College\YEAR 3\Semester 2\Programming 3B\Arrays\obj\Debug\Arrays.exe
+C:\Users\Phea\Desktop\Varsity College\YEAR 3\Semester 2\Programming 3B\Arrays\obj\Debug\Arrays.pdb
